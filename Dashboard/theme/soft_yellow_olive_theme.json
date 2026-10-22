@@ -1,0 +1,61 @@
+{
+  "name": "Soft Yellow & Olive",
+  "dataColors": [
+    "#6B7A2E",
+    "#E9D66B",
+    "#8F9B48",
+    "#C8A82A",
+    "#D0D696",
+    "#3E461C",
+    "#B59A1F",
+    "#A9B36A"
+  ],
+  "background": "#FCF8E3",
+  "foreground": "#2F3416",
+  "tableAccent": "#6B7A2E",
+  "good": "#6B7A2E",
+  "neutral": "#E9D66B",
+  "bad": "#B5651D",
+  "maximum": "#3E461C",
+  "center": "#E9D66B",
+  "minimum": "#F6EEC4",
+  "textClasses": {
+    "title": {
+      "fontFace": "Segoe UI Semibold",
+      "color": "#2F3416"
+    },
+    "label": {
+      "fontFace": "Segoe UI",
+      "color": "#82876A"
+    },
+    "callout": {
+      "fontFace": "Segoe UI Semibold",
+      "color": "#2F3416"
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "fontColor": {
+              "solid": {
+                "color": "#2F3416"
+              }
+            }
+          }
+        ],
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            },
+            "transparency": 0
+          }
+        ]
+      }
+    }
+  }
+}
